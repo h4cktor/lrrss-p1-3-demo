@@ -39,15 +39,15 @@ La idea principal es facilitar la comparación entre una comunicación directa c
 ## Requisitos
 
 - Python 3 instalado.
-- En **Windows**, instalar `curses`:
-
-```sh
-pip install windows-curses
-```
 - Instalar `websocket-client`
 
 ```sh
 pip install websocket-client
+```
+- En **Windows**, instalar `curses`:
+
+```sh
+pip install windows-curses
 ```
 
 

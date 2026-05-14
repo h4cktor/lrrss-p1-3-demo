@@ -44,6 +44,12 @@ La idea principal es facilitar la comparación entre una comunicación directa c
 ```sh
 pip install windows-curses
 ```
+- Instalar `websocket-client`
+
+```sh
+pip install websocket-client
+```
+
 
 ## Inicio rápido
 
